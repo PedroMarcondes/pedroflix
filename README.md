@@ -1,5 +1,7 @@
 # Pedroflix - Imersão React
 
+<p align='center'><img width='200' src="./src/assets/img/Logo.png"/></p>
+
 ![](https://raw.githubusercontent.com/PedroMarcondes/pedroflix/master/src/assets/img/print-projeto.png)
 
 <p align="center">
